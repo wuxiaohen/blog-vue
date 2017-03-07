@@ -45,7 +45,7 @@ my blog
 
 克隆远程库
 ```
-git clone https://github.com/wuxiaohen/blog.git
+git clone https://github.com/wuxiaohen/blog-vue.git
 ```
 进入项目目录
 ```
