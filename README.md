@@ -5,6 +5,8 @@ my blog
 
 > 一个前端基于Vue.js，后端基于Node.js的博客内容管理器
 
+### [demo](http://wuxiaohen.com)
+
 ### 登陆地址在Demo页面最下方
 
 ## Features
