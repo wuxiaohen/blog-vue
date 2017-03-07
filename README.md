@@ -51,7 +51,7 @@ git clone https://github.com/wuxiaohen/blog-vue.git
 ```
 进入项目目录
 ```
-cd CMS-of-Blog
+cd Blog
 ```
 安装依赖
 ```
