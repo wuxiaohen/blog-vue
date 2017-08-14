@@ -43,6 +43,7 @@ my blog
 ```
 .\mongod.exe
 ```
+
 在控制台看到waiting for connections on port 27017表示OK
 
 克隆远程库
