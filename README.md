@@ -68,3 +68,4 @@ node www
 * **第一次从node启动时，数据库会初始化，自动插入两个用户，分别是和'admin'，'游客'，前者有管理员权限，默认密码是111.**
 * 如果需要改动，则在第一次启动前打开server目录下的init.js，初始化数据放在该文件中。
 * 推荐[MongoChef](http://3t.io/mongochef/)作为mongoDB可视化管理工具
+
