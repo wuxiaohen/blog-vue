@@ -62,7 +62,6 @@ npm install
 cd server
 node www
 ```
-
 打开浏览器输入http://localhost:3000/
 如果一切OK，则进入博客的归档页面，登陆按钮在最下方。
 ###### 注意
