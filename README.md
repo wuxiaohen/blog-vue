@@ -69,3 +69,4 @@ node www
 * 如果需要改动，则在第一次启动前打开server目录下的init.js，初始化数据放在该文件中。
 * 推荐[MongoChef](http://3t.io/mongochef/)作为mongoDB可视化管理工具
 
+
